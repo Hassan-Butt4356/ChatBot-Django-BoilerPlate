@@ -1,0 +1,7 @@
+age
+goodbye
+greeting
+hours
+name
+service
+unknown
